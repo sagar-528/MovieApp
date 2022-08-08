@@ -1,0 +1,1 @@
+export const spacing = [0, 5, 9, 13, 19]
