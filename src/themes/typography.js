@@ -1,13 +1,11 @@
 export const typography = {
+  primary: 'Poppins-Regular',
 
-    primary: 'Poppins-Regular',
-    
-    secondary: 'Poppins-SemiBold',
-    
-    Bold: 'Poppins-Bold',
-    
-    extraBold: 'Poppins-ExtraBold',
-    
-    thin: 'Poppins-Thin'
-    
-    }
+  secondary: 'Poppins-SemiBold',
+
+  Bold: 'Poppins-Bold',
+
+  extraBold: 'Poppins-ExtraBold',
+
+  thin: 'Poppins-Thin',
+};
